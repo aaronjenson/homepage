@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Aaron Jenson'
+theme = 'terminal'
+
+[Params]
+  themeColor = "green"
+  showMenuItems = 2
+  centerTheme = true
+
+[Params.Logo]
+  logoText = "Aaron Jenson"
