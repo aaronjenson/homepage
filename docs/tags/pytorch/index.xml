@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 31 Oct 2023 21:04:24 -0700</lastBuildDate><atom:link href="https://www.aaronjenson.com/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>YoshAI</title>
-      <link>https://www.aaronjenson.com/posts/yoshai/yoshai/</link>
+      <link>https://www.aaronjenson.com/posts/yoshai/</link>
       <pubDate>Tue, 31 Oct 2023 21:04:24 -0700</pubDate>
       
-      <guid>https://www.aaronjenson.com/posts/yoshai/yoshai/</guid>
+      <guid>https://www.aaronjenson.com/posts/yoshai/</guid>
       <description>YoshAI is a project that aims to create an AI that can play Mario Kart Wii at least as effectively as a human. It uses the Dolphin emulator as a simulation platform. At a basic level, YoshAI starts dolphin, finds the window displaying the game, and uses the pixels of the window to predict the best controls to send to dolphin. In collect mode, a user uses a gamepad to control the character and YoshAI saves the images of the game and user inputs as data to be used for training.</description>
       <content>&lt;p&gt;YoshAI is a project that aims to create an AI that can play Mario Kart Wii at least as effectively as a human. It uses the Dolphin emulator as a simulation platform. At a basic level, YoshAI starts dolphin, finds the window displaying the game, and uses the pixels of the window to predict the best controls to send to dolphin. In collect mode, a user uses a gamepad to control the character and YoshAI saves the images of the game and user inputs as data to be used for training. Train mode uses behavior cloning to train a convolutional neural network to copy the user&amp;rsquo;s inputs. Run mode uses the trained model to play Mario Kart. Dagger mode [TODO]&lt;/p&gt;
 </content>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Ailofi</title>
-      <link>https://www.aaronjenson.com/posts/ailofi/ailofi/</link>
+      <link>https://www.aaronjenson.com/posts/ailofi/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aaronjenson.com/posts/ailofi/ailofi/</guid>
+      <guid>https://www.aaronjenson.com/posts/ailofi/</guid>
       <description></description>
       <content></content>
     </item>
