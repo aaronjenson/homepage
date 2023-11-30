@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arduino on Aaron Jenson</title>
-    <link>aaronjenson.com/tags/arduino/</link>
+    <link>https://www.aaronjenson.com/tags/arduino/</link>
     <description>Recent content in Arduino on Aaron Jenson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="aaronjenson.com/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aaronjenson.com/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sand Table</title>
-      <link>aaronjenson.com/posts/sandtable/sandtable/</link>
+      <link>https://www.aaronjenson.com/posts/sandtable/sandtable/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>aaronjenson.com/posts/sandtable/sandtable/</guid>
+      <guid>https://www.aaronjenson.com/posts/sandtable/sandtable/</guid>
       <description>Several months ago, I watched a YouTube video of a tour of a machine shop with Michael Dubno. During that tour, they showed of a couple projects Michael had created in his shop, one of which was an insanely cool coffee table that could draw things almost by magic! Underneath some glass, there was a bed of sand and a single steel ball. A set of magnets under the bed of sand could move the ball anywhere on that bed, leaving behind a path in the sand that would then turn into pictures and patterns.</description>
       <content>&lt;p&gt;Several months ago, I watched a YouTube video of a tour of a machine shop with Michael Dubno. During that tour,
 they

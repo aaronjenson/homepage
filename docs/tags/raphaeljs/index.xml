@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RaphaelJS on Aaron Jenson</title>
-    <link>aaronjenson.com/tags/raphaeljs/</link>
+    <link>https://www.aaronjenson.com/tags/raphaeljs/</link>
     <description>Recent content in RaphaelJS on Aaron Jenson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="aaronjenson.com/tags/raphaeljs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aaronjenson.com/tags/raphaeljs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projection</title>
-      <link>aaronjenson.com/posts/projection/projection/</link>
+      <link>https://www.aaronjenson.com/posts/projection/projection/</link>
       <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>aaronjenson.com/posts/projection/projection/</guid>
+      <guid>https://www.aaronjenson.com/posts/projection/projection/</guid>
       <description></description>
       <content></content>
     </item>
